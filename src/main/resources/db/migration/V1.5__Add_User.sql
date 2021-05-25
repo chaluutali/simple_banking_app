@@ -1,0 +1,1 @@
+insert into `user` values(UUID(),'Chaluutali','1234');
